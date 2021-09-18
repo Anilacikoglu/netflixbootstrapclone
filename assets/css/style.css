@@ -63,3 +63,22 @@ header form button{
     font-size: 28px!important;
     font-weight: 300!important;
 }
+
+.story-container{
+    border-bottom: 8px solid #222222;
+}
+
+.story-container h1{
+    color: #fff;
+    font-size: 3.125rem;
+}
+.story-container h2{
+    color: #fff;
+    font-size: 1.625rem;
+    font-weight: 300;
+}
+
+/* story container */
+.story-container img{
+    width: 100%;
+}
