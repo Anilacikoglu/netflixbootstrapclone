@@ -82,3 +82,42 @@ header form button{
 .story-container img{
     width: 100%;
 }
+
+/* faq */
+.faq{
+    color: #fff;
+    padding: 50px 0;
+    border-bottom: 8px solid #222222;
+}
+.faq h1{
+    font-size: 3.125rem;
+}
+.faq .card {
+    background-color: #303030;
+}
+.faq input{
+    height: 70px!important;
+}
+.faq button{
+    font-size: 28px!important;
+    font-weight: 300!important;
+}
+.faq h3{
+    font-size: 20px;
+}
+
+/* footer */
+footer{
+    color: #757575;
+}
+footer ul li{
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+footer .dropdown button{
+    background-color: black;
+}
+footer .copyright{
+    font-size: 12px;
+}
